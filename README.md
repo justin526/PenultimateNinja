@@ -1,2 +1,3 @@
-# PenultimateNinja
-The video game created from scratch using JavaFX
+Justin Zhang
+Neeraj Venkatapuram
+The One and Only David Tung
